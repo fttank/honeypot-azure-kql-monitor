@@ -20,13 +20,13 @@ Due to Azure subscription expiration, live access is no longer available — but
 ## 📸 Screenshots
 
 ### 🌍 Global Honeypot Activity Dashboard
-![Global Honeypot Dashboard](screenshots/dashboard-global-summary.jpg)
+![Global Honeypot Dashboard](screenshots/dashboard-global-summary.png)
 
 ### 📊 Failed Logins & Attack Attempts
-![Attack Graphs](screenshots/dashboard-attack-graphs.jpg)
+![Attack Graphs](screenshots/dashboard-attack-graphs.png)
 
 ### 🔒 Privilege Escalation – Event ID 4672
-![Privilege Escalation Events](screenshots/privilege-escalation-events.jpg)
+![Privilege Escalation Events](screenshots/privilege-escalation-events.png)
 
 ## 🔍 Detection Use Cases
 
